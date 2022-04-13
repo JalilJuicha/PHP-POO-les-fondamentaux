@@ -7,3 +7,6 @@
 ## 1. Classes, Getters et Setters
 ## 2. Constructeur
 ## 3. Héritage (inheretence)
+## 4. Modificateurs d'accès (Access modifiers)
+## 5. Propriétés et méthodes statiques
+## 6. Abstraction
