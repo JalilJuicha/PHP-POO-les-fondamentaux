@@ -6,3 +6,4 @@
 
 ## 1. Classes, Getters et Setters
 ## 2. Constructeur
+## 3. Héritage (inheretence)
