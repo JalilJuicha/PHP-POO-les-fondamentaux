@@ -10,3 +10,8 @@
 ## 4. Modificateurs d'accès (Access modifiers)
 ## 5. Propriétés et méthodes statiques
 ## 6. Abstraction
+
+
+
+>Le Lien Des exercices:
+https://rural-tailor-442.notion.site/PHP-POO-les-fondamentaux-b3233eb5bda1450eaa7ce4184b885d87
