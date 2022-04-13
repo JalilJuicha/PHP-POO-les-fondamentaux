@@ -1,5 +1,5 @@
 <?php
-  class vehicle{
+  class vehicule{
     public $make ;
     public $model ;
     public $color ;
@@ -40,7 +40,7 @@
   }
   }
     // ==============
-  $Audi_p1 =new vehicle() ;
+  $Audi_p1 =new vehicule() ;
   $Audi_p1 -> set_make("Audi");
   $Audi_p1 -> set_color("black");
   echo $Audi_p1 -> get_make(); 
